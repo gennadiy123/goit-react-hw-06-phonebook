@@ -1,0 +1,16 @@
+.box {
+    width: 300px;
+    height: 40px;
+}
+
+.contact {
+display: flex;
+border: 1px solid rgb(31, 31, 31);
+justify-content: space-between;
+}
+
+.buttonClass {
+    border: 0;
+    background-color: red;
+    color: white;
+}
